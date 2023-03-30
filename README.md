@@ -2,7 +2,7 @@ OpenViVQA: Open-domain Vietnamese Visual Question Answering
 =====
 
 Examples of some samples and results of the [M4C](https://arxiv.org/abs/1911.06258) method of the OpenViVQA dataset.
-![examples](images/examples.png)
+![examples](openvivqa-true-cases-text-QA-images-for-repo.png)
 
 The dataset will be available when our paper will have been accepted.
 
