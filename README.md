@@ -1,8 +1,8 @@
 OpenViVQA: Open-domain Vietnamese Visual Question Answering
 =====
 
-![examples](openvivqa-true-cases-text-QA-images-for-repo.png)
-Examples of some samples and results of the [M4C](https://arxiv.org/abs/1911.06258) method on the OpenViVQA dataset. Note that texts in green indicate scene texts copied from the images.
+![examples](scene_text_examples.pdf)
+Examples of some samples of the OpenViVQA dataset and the results of some experiments. Note that texts in green indicate scene texts copied from the images.
 
 The dataset will be available when our paper will have been accepted.
 
