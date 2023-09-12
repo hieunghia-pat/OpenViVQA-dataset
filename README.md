@@ -2,9 +2,6 @@ OpenViVQA: Open-domain Vietnamese Visual Question Answering
 =====
 
 ![examples](data_examples.png)
-Examples of some samples of the OpenViVQA dataset. Note that texts in green indicate scene texts copied from the images.
-
-Paper of this dataset is under review at an international journal. The dataset will be available when our paper will have been accepted.
 
 If you mention or use any information of our dataset, please cite to our paper:
 ```
