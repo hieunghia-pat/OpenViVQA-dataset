@@ -3,6 +3,8 @@ OpenViVQA: Open-domain Vietnamese Visual Question Answering
 
 ![examples](data_examples.png)
 
+The OpenViVQA dataset contains <b>11,000+</b> images with <b>37,000+</b> question-answer pairs which introduces the Text-based Open-ended Visual Question Answering in Vietnamese. This dataset is publicly available to research community in the VLSP 2023 - ViVRC shared task challenge. You can access the dataset as well as submit your results to evaluate on the private test set on the [Codalab](https://codalab.lisn.upsaclay.fr/competitions/15212#participate) evaluation system.
+
 If you mention or use any information of our dataset, please cite to our paper:
 ```
 @article{NGUYEN2023101868,
